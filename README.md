@@ -1,7 +1,7 @@
 # Physical_Neural_Network
 Physical Neural Network (PNN) is a network of artificial neurons for building automated control systems
 
-Author: Dmitriy Anatolievich Zherdin, 01.07.2023
+Author: Dmitriy Zherdin, 01.07.2023
 
 There are two tendencies in modern science:
 
